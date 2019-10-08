@@ -1,0 +1,22 @@
+Przydatne metody: Console.Write(), Console.WriteLine(), Console.ReadLine().
+	
+
+Otwórz program Visual Studio.
+Utwórz nowy projekt - aplikacja konsolowa w jêzyku C#.
+Napisz program wyœwietlaj¹cy zdanie “Hello world.”.
+Stwórz zmienne: “bob” i “eva” i przypisz im odpowiednie przywitania (np. “Hello Bob”).
+Stwórz zmienn¹ “userName”, a nastêpnie spraw, aby program pyta³ u¿ytkownika o jego imiê. Zmiena userName ma tworzyæ ci¹g “Hello X.”, gdzie X to podane imiê. Do tego celu u¿yj operatora + do ³¹czenia fragmentów ci¹gu.
+Stwórz komentarze opisuj¹ce fragmenty kodu, a tak¿e dodaj komentarz zawieraj¹cy dane autora.
+Przetestuj dzia³anie odwo³ania #region.
+Umieœæ w komentarzu kod odpowiadaj¹cy za wyœwietlanie powitañ wykorzystuj¹c /* i */ lub skrótu ctrl + e, c (odwrotnoœæ to ctrl + e, u)
+Stwórz kilka zmiennych liczbowych i sprawdŸ dzia³anie operatorów matematycznych (+, -, *, /,).
+Stwórz zmienn¹ logiczn¹ oraz nadaj jej logiczn¹ wartoœæ. 
+SprawdŸ dzia³anie operatora !.
+Przetestuj dzia³anie nastêpuj¹cych operatorów (==, <, >, !=, &, I). 
+“Odkomentuj” kod odpowiedzialny za wyœwietlanie powitañ i przy kolejnych wyœwietlaniach ustaw breakpointy.
+SprawdŸ co mo¿esz zrobiæ w trybie debugowania.
+Dodaj zmienna liczbow¹ a nastêpnie inkrementuj j¹ kilka razy. 
+Postaw breakpoint w linii w której zosta³a nadana wartoœæ zmiennej.
+W trybie debugowania dodaj zmienn¹ do listy obserwowanych.
+Przechodz¹c krok po kroku obserwuj zmianê wartoœci. Czy mo¿esz j¹ zmieniæ rêcznie? Czemu mo¿e to s³u¿yæ?
+U¿yj skrótu ctrl+h aby zmieniæ wszystkie wyst¹pienia nazwy zmiennej liczbowej.
