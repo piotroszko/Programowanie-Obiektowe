@@ -1,0 +1,10 @@
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\bin\Release\netcoreapp2.0\ConsoleA.deps.json
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\bin\Release\netcoreapp2.0\ConsoleA.runtimeconfig.json
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\bin\Release\netcoreapp2.0\ConsoleA.runtimeconfig.dev.json
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\bin\Release\netcoreapp2.0\ConsoleA.dll
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\bin\Release\netcoreapp2.0\ConsoleA.pdb
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\obj\Release\netcoreapp2.0\ConsoleA.csproj.CoreCompileInputs.cache
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\obj\Release\netcoreapp2.0\ConsoleA.AssemblyInfoInputs.cache
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\obj\Release\netcoreapp2.0\ConsoleA.AssemblyInfo.cs
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\obj\Release\netcoreapp2.0\ConsoleA.dll
+D:\PRoszkowski\zaj1\ConsoleA\ConsoleA\obj\Release\netcoreapp2.0\ConsoleA.pdb
