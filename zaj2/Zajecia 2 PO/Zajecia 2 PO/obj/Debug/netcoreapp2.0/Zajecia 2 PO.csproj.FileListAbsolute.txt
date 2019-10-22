@@ -1,0 +1,11 @@
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\bin\Debug\netcoreapp2.0\Zajecia 2 PO.deps.json
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\bin\Debug\netcoreapp2.0\Zajecia 2 PO.runtimeconfig.json
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\bin\Debug\netcoreapp2.0\Zajecia 2 PO.runtimeconfig.dev.json
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\bin\Debug\netcoreapp2.0\Zajecia 2 PO.dll
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\bin\Debug\netcoreapp2.0\Zajecia 2 PO.pdb
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\obj\Debug\netcoreapp2.0\Zajecia 2 PO.csprojAssemblyReference.cache
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\obj\Debug\netcoreapp2.0\Zajecia 2 PO.csproj.CoreCompileInputs.cache
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\obj\Debug\netcoreapp2.0\Zajecia 2 PO.AssemblyInfoInputs.cache
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\obj\Debug\netcoreapp2.0\Zajecia 2 PO.AssemblyInfo.cs
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\obj\Debug\netcoreapp2.0\Zajecia 2 PO.dll
+D:\PRoszkowski\zaj2\Zajecia 2 PO\Zajecia 2 PO\obj\Debug\netcoreapp2.0\Zajecia 2 PO.pdb
